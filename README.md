@@ -1,4 +1,4 @@
 # ASHISHPATEL-DEMO
 THIS IS  MY FIRST REPOSITORY
 <br>
-Author - Ashish patel
+Author - Ashish singh
